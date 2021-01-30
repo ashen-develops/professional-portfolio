@@ -16,6 +16,10 @@
     -webkit-padding-end: 0px;
 }
 
+#logo {
+    cursor: pointer;
+}
+
 body {
     font-size: 16px;
     font-family: 'Open Sans', serif;
