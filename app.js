@@ -10,7 +10,7 @@ $('#logo').on('click', function (event) {
 // About Me
 $('#nav-about-me').on('click', function (event) {
     $('html, body').animate({
-        scrollTop: $("section.about").offset().top
+        scrollTop: $("section.about-me").offset().top
     });
 })
 
